@@ -28,11 +28,8 @@ pip install -r requirements.txt
 Откройте `Solution.ipynb` и запускайте ячейки последовательно сверху вниз.
 
 ## Что внутри 
-- Разведочный анализ данных (EDA): проверки, пропуски, распределения.
-- Модели регрессии:
-  - Linear Regression
-  - Ridge / Lasso / ElasticNet
-  - PolynomialFeatures + LinearRegression
+- Первичный анализ данных (EDA): проверки, пропуски, распределения.
+- Модели регрессии и деревьев
 - Оценка качества:
   - Разделение на train/val
   - Метрики: MAE / RMSE / R².
